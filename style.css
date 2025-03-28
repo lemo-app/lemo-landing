@@ -1,0 +1,12 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.hero-gradient {
+    background: linear-gradient(135deg, #0a1e3c 0%, #1e3a8a 100%);
+}
+.feature-card {
+    transition: all 0.3s ease;
+}
+.feature-card:hover {
+    transform: translateY(-5px);
+}
